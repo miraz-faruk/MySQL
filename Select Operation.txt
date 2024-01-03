@@ -1,0 +1,6 @@
+SELECT Roll, Name, City
+FROM student_detail;
+
+......................
+SELECT *
+FROM student_detail

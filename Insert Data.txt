@@ -1,0 +1,10 @@
+INSERT INTO student_detail
+VALUES
+(112, 'Roysa', 'Female', 25, 2.80, 'USA'),
+(114, 'Utsho', 'Male', 25, 2.60, 'Khulna'),
+(115, 'Apon', 'Male', 26, 3.80, 'Rangpur'),
+(116, 'Monir', 'Male', 25, 2.80, 'Barishal'),
+(117, 'Moitry', 'Female', 25, 3.00, 'Dhaka'),
+(118, 'Pori', 'Female', 25, 3.67, 'Dhaka'),
+(119, 'Anika', 'Female', 25, 3.10, 'Bogura'),
+(120, 'Taskia', 'Female', 25, 3.50, 'Dhaka');
